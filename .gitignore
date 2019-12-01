@@ -1,3 +1,4 @@
 # django_localLibrary
 
 *.sqlite3
+__pycache__
